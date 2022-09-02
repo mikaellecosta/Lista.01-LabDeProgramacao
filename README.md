@@ -7,7 +7,7 @@
   <a href="#questão-7">Questão 7</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-# Lista 01 - Programação em C
+# 📚 Lista 01 - Programação em C
 Lista de exercícios submetida na aula do dia 29/08/22.
 
 ## Questão 2:
