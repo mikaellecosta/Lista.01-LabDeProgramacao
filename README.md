@@ -75,8 +75,8 @@ int main() {
 
 ## Questão 6:
 Fazer um programa para ler a altura (em metros) e o sexo de uma pessoa e calcular o seu peso ideal atraves da seguinte formula: 
--> para homens: 72.7 * altura - 58
--> para mulheres: 62.1 * altura - 44.7
+- para homens: 72.7 * altura - 58
+- para mulheres: 62.1 * altura - 44.7
 ``` c
 #include <stdio.h>
 
