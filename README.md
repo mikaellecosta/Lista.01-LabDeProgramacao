@@ -28,7 +28,7 @@
 </p>
 
 # 📚 Lista 01 - Programação em C
-Lista de exercícios submetida na aula do dia 29/08/22.
+Lista de exercícios submetida na cadeira de Laboratório de Programação.
 
 ## Questão 2:
 Faça um programa que leia um valor inteiro decimal X e escreva, na tela, este mesmo valor nas bases
